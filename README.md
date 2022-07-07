@@ -8,7 +8,7 @@
 
 ### Languages:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/typescript-original.svg" />
+<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <br>
@@ -34,6 +34,7 @@
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<br>
 
 ### Others:
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
